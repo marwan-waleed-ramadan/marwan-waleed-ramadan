@@ -18,6 +18,7 @@ Learning computer networking, network security, ethical hacking and Linux admini
 - [ASCII Art](https://github.com/Marwanmano1/ascii-art) — text-to-ASCII rendering.
 - [ASCII Art FS](https://github.com/Marwanmano1/ascii-art-fs) — banner selection and file parsing.
 - [ASCII Art Justify](https://github.com/Marwanmano1/ascii-art-justify) — terminal text alignment.
+- [ASCII Art Web](https://github.com/Marwanmano1/ascii-art-web) — completed group web project with Nora Tarek and Helen Raef.
 - [ASCII Art Web Stylize](https://github.com/Marwanmano1/ascii-art-web-stylize) — Go web server with HTML/CSS; portal evaluation pending.
 - [Math Skills](https://github.com/Marwanmano1/math-skills) — descriptive statistics in Go.
 - [Piscine Go](https://github.com/Marwanmano1/piscine-go) — Go and shell exercises.
