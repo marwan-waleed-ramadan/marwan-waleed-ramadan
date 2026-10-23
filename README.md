@@ -1,11 +1,13 @@
-# Hi, I’m Marwan Waleed
+# Marwan Waleed Ramadan
+
+### Computer Engineering Student · Cybersecurity Learner
 
 Computer Engineering student at Modern Sciences and Arts University (MSA), working toward a career in cybersecurity.
 
 ## About me
 - Fourth-year student in a five-year Computer Engineering program (2023–2028).
 - First-cohort learner in the 01Edu program with Nextera Education, Egypt (Nov 2025–Nov 2027, in progress).
-- Currently studying CyberTalents Certified Penetration Tester (Oct–Nov 2026); certification not yet earned.
+- Currently studying CyberTalents Certified Penetration Tester (Oct–Nov 2026) — in progress.
 - Completed 120 hours of Cyber Security training at ITI.
 
 ## Technical foundation
@@ -26,8 +28,6 @@ Learning computer networking, network security, ethical hacking and Linux admini
 
 ## Training
 ITI Cyber Security (120 hours) · Mahara-Tech courses in networking, network security, ethical hacking, Python and Red Hat System Administration I · Huawei ICT Academy HCCDA-Tech Essentials course completion · Black Horse Courses Front End (48 hours).
-
-These are training/course completion certificates; they do not imply RHCSA or Huawei professional certification.
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/marwan-waleed-234988282/)
